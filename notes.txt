@@ -1,0 +1,11 @@
+Creating JsonServer:-
+------------------------
+
+step 1: create a folder
+step 2: open cmd in that folder's path 
+step 3: run command - npm init -y 
+step 4: run command - npm i JsonServer
+step 5: create db.json and setup dataset in that file 
+step 6: use this command to run server : json-server --watch db.json
+
+npm i -g json-server
