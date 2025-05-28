@@ -3,15 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "startRT": "node index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "json": "^11.0.0",
-    "json-server": "^0.17.3",
-    "server": "^1.0.41"
+    "json-server": "^0.17.3"
   }
 }
